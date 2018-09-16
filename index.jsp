@@ -32,7 +32,7 @@
             <input type="submit" id="submit" value="Sign Up" />
 
             <div id="licenseAgreement">
-                <input type="checkbox" name="licenseAgreement" checked />
+                <input type="checkbox" name="licenseAgreement" />
                 <span>
                     I agree to <a href="">terms and conditions</a>
                 </span>
