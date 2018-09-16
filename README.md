@@ -1,2 +1,2 @@
 # devops-test
-by Grisha Mozias
+by Grisha
