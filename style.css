@@ -38,7 +38,8 @@ html, body {
     position: absolute;
     max-width: 380px;
     background: #ffffff;
-    margin: -48px auto 0 auto;
+    top: 50px;
+    margin: 0 auto 0 auto;
     right:0;
     left:0;
     box-shadow: rgba(0, 0, 0, 0.16) 0 0 60px;
