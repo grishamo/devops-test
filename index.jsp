@@ -34,7 +34,7 @@
             <div id="licenseAgreement">
                 <input type="checkbox" name="licenseAgreement" />
                 <span>
-                    I agree to <a href="">terms and conditions</a>
+                    I agree to <a href="">terms and conditions.</a>
                 </span>
             </div>
         </div>
