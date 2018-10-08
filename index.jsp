@@ -10,7 +10,7 @@
 <div id="container">
     <div id="header">&nbsp;</div>
     <div id="form">
-        <h1 class="formTitle">Sign Up Form</h1>
+        <!--<h1 class="formTitle">Sign Up Form</h1>-->
         <div class="formContent">
             <div class="formInputContainer">
                 <label for="firstName">First name</label>
